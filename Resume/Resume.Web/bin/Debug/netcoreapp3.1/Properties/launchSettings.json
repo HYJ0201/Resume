@@ -1,9 +1,5 @@
 {
   "profiles": {
-    "启动": {
-      "commandName": "Project",
-      "ErrorString": "Additional text encountered after finished reading JSON content: }. Path '', line 12, position 0."
-    },
     "Resume.Web": {
       "commandName": "Project"
     }

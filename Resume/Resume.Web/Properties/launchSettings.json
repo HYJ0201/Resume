@@ -1,12 +1,11 @@
-﻿{
-  
-    "Resume.Web": {
+{
+  "profiles": {
+    "启动": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "applicationUrl": "http://localhost:5000",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      "ErrorString": "Additional text encountered after finished reading JSON content: }. Path '', line 12, position 0."
+    },
+    "Resume.Web": {
+      "commandName": "Project"
     }
   }
 }

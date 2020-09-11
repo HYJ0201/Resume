@@ -4,6 +4,6 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>Resume.Web</ActiveDebugProfile>
+    <ActiveDebugProfile>启动</ActiveDebugProfile>
   </PropertyGroup>
 </Project>

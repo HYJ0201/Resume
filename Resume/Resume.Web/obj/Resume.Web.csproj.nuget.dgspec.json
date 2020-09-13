@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\1\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {}
+    "C:\\Users\\0\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {}
   },
   "projects": {
-    "C:\\1\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {
+    "C:\\Users\\0\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
+        "projectUniqueName": "C:\\Users\\0\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
         "projectName": "Resume.Web",
-        "projectPath": "C:\\1\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\1\\Resume\\Resume\\Resume.Web\\obj\\",
+        "projectPath": "C:\\Users\\0\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
+        "packagesPath": "C:\\Users\\0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\0\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\0\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

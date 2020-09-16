@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\57222\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {}
+    "C:\\Users\\57222\\source\\repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\57222\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {
+    "C:\\Users\\57222\\source\\repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\57222\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
+        "projectUniqueName": "C:\\Users\\57222\\source\\repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
         "projectName": "Resume.Web",
-        "projectPath": "C:\\Users\\57222\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
+        "projectPath": "C:\\Users\\57222\\source\\repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\Resume.Web.csproj",
         "packagesPath": "C:\\Users\\57222\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\57222\\Source\\Repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\obj\\",
+        "outputPath": "C:\\Users\\57222\\source\\repos\\HYJ0201\\Resume\\Resume\\Resume.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\57222\\AppData\\Roaming\\NuGet\\NuGet.Config",

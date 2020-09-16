@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Resume.Web.Models
 {
-    public class DataConntection: DbContext
+    public class DataConntection
     {
     }
 }
